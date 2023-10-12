@@ -71,4 +71,4 @@ try:
 except KeyboardInterrupt:
     exit(1)
 
-print(f"Your score is {int((score / numberOfQuestions) * 100)}%.")
+print(f"Your score is {int((score / numberOfQuestions) * 100)}%")
